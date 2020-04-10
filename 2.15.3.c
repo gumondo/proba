@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//comentarios
 int main()
 	{
 	int x,i;
